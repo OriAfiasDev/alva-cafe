@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="עלווה קפה">
+  <circle cx="60" cy="60" r="60" fill="#1B231C"/>
+  <circle cx="60" cy="60" r="54.5" fill="none" stroke="#C9A46B" stroke-width="2"/>
+  <circle cx="60" cy="60" r="49" fill="none" stroke="#C9A46B" stroke-width=".8" opacity=".5"/>
+  <circle cx="60" cy="34" r="7" fill="#D4782A"/>
+  <path d="M60 92 V52" stroke="#EFE6D3" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M60 72 C 44 70, 36 60, 37 48 C 50 47, 59 55, 60 72 Z" fill="#EFE6D3"/>
+  <path d="M60 62 C 76 60, 84 50, 83 38 C 70 37, 61 45, 60 62 Z" fill="#E3C48C"/>
+  <path d="M60 84 C 48 83, 42 76, 43 67 C 53 66, 59 72, 60 84 Z" fill="#E3C48C" opacity=".85"/>
+</svg>
