@@ -1,4 +1,4 @@
-# עלווה קפה – ALVA (demo)
+# שלווה קפה – SHALVA (demo)
 
 **A fictional business.** This is a design/tech demo of a scrollytelling site for a
 coffee cart: the brand, the name, the address, the phone numbers, the social
@@ -25,7 +25,7 @@ the hero `<video>` needs — Safari refuses to load a video without it.)
 - `index.html` — markup, JSON-LD, all copy
 - `assets/css/style.css` — palette/scale as custom properties, every section
 - `assets/js/main.js` — hero scrub + type choreography (six words land with the
-  hands, then "עלווה"/"קפה" close into the name), pinned menu strip that pans
+  hands, then "שלווה"/"קפה" close into the name), pinned menu strip that pans
   with vertical scroll, word reveal, stream steps (pinned photo on desktop, one
   photo per step on phones), staged reviews on phones, nav state
 - `assets/video/` — `hero.mp4` (1280×720, short GOP for scrubbing) and

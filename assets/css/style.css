@@ -1,4 +1,4 @@
-/* עלווה קפה – style.css
+/* שלווה קפה – style.css
    Palette from the physical place: oak shade, stream water, kraft bowls, the
    wooden dessert board, brûlée caramel. Display: Karantina. Body: Alef.
    The recurring motif is the oval board from the hero video. */
@@ -132,7 +132,7 @@ p { margin: 0 0 var(--s3); }
 }
 .hero__word--name { font-weight: 700; }
 .hero__word--name.is-set { color: var(--oak); }
-/* At the very end the two name words close up into "עלווה קפה". The space that
+/* At the very end the two name words close up into "שלווה קפה". The space that
    opens between them is measured from this out-of-flow glyph, so the widths the
    choreography works with stay stable. */
 .hero__gap { position: absolute; top: 0; opacity: 0; white-space: pre; pointer-events: none; }

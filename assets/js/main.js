@@ -1,7 +1,7 @@
-/* עלווה קפה – main.js
+/* שלווה קפה – main.js
    Scroll-scrubbed hero: the camera is static, the motion is six hands setting
    six desserts on the board. Six words enter from the same side as each hand
-   and settle above "their" dessert; at the end the nouns leave and "עלווה"/"קפה"
+   and settle above "their" dessert; at the end the nouns leave and "שלווה"/"קפה"
    close into the name. Then: a pinned menu strip that pans with vertical
    scroll, word-by-word reveal, stream steps (pinned photo on desktop, one photo
    per step on phones), staged reviews on phones, nav state. No libraries. */
@@ -56,8 +56,8 @@
     { enter: .82, land: .91, side:  1 }, // בר – chocolate square, far right
   ];
 
-  /* The closing move: the four nouns leave, "עלווה" and "קפה" slide to the centre
-     line and touch, then part just enough to let a space in — "עלווה קפה".
+  /* The closing move: the four nouns leave, "שלווה" and "קפה" slide to the centre
+     line and touch, then part just enough to let a space in — "שלווה קפה".
      Everything is measured from the real glyphs so the join is exact. */
   const first = words[5], second = words[4];   // first = right-hand word in RTL
   const gap = second.querySelector('.hero__gap');
